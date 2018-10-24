@@ -2,8 +2,11 @@
 
 For space invaders style game
 
---Controls--
+#### --Controls--
+
 
 Move left = LEFT ARROW
+
 Move right = RIGHT ARROW
+
 Fire = SPACE
